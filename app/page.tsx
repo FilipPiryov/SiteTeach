@@ -1,4 +1,4 @@
-import Image from "main/placeholder.jpg"
+import Image from "main"
 import { Star, MapPin, Clock, Mail, Phone, Instagram, Linkedin } from "lucide-react"
 import ContactForm from "@/components/contact-form"
 import MobileMenu from "@/components/mobile-menu"
