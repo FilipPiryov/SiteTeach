@@ -64,7 +64,7 @@ export default function Home() {
             <div className="order-1 md:order-2 flex justify-center mb-6 md:mb-0">
               <div className="relative w-48 h-48 md:w-64 md:h-64 lg:w-80 lg:h-80 rounded-full overflow-hidden border-4 border-white shadow-lg">
                 <Image
-                  src="/placeholder.svg?height=320&width=320"
+                  src="/placeholder.jpeg?height=320&width=320"
                   alt="Daniel Petrov - English Tutor"
                   fill
                   className="object-cover"
